@@ -1,4 +1,9 @@
-## Hi there 👋
+## Tech Stack
+
+Docker
+GitHub Actions
+All backend services in Python + FastAPI
+
 
 <!--
 
