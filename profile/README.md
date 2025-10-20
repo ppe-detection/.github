@@ -14,4 +14,3 @@
 
 # Hosting
 * Azure Cloud Hosting for microservices
-* Tensorflow cloud GPUs (API server in GPU box)
