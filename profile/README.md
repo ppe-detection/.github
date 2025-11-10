@@ -4,8 +4,8 @@
 * It will call or POST to the main appor write to BaaS
 
 ## mobile-application
-* Purpose: frontend UX for humans
-* Talks to: playform repo
+* Purpose: frontend UX for users
+* Talks to: platform via webhooks
 , 
 ## platform
 This one holds: 
